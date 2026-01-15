@@ -90,7 +90,7 @@ header {
 .header-image-bg {
     width: 100%;
     height: 160px;
-    background-image: url(/starter-code/assets/tablet/image-hero.png);
+    background-image: url(assets/tablet/image-hero.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto 100%;
@@ -221,7 +221,7 @@ footer {
     padding-bottom: 2rem;
     background-image: 
         linear-gradient(rgba(77, 150, 168, 0.85), rgba(77, 150, 168, 0.85)), 
-        url(/starter-code/assets/mobile/image-footer.jpg); 
+        url(assets/mobile/image-footer.jpg); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -274,7 +274,7 @@ footer .text-preset-2, footer .text-preset-4 {
         width: 100%;
         background-image: 
         linear-gradient(rgba(77, 150, 168, 0.85), rgba(77, 150, 168, 0.85)), 
-        url(/starter-code/assets/tablet/image-footer.jpg); 
+        url(assets/tablet/image-footer.jpg); 
     }
 
     footer .text-preset-2, footer p {
@@ -309,7 +309,7 @@ footer .text-preset-2, footer .text-preset-4 {
         display: block;
         width: 100%;
         height: 250px;
-        background-image: url(/starter-code/assets/desktop/image-hero-left.png);
+        background-image: url(assets/desktop/image-hero-left.png);
         background-repeat: no-repeat;
         background-position: right;
         background-size: auto 100%;
@@ -319,7 +319,7 @@ footer .text-preset-2, footer .text-preset-4 {
         display: block;
         width: 100%;
         height: 250px;
-        background-image: url(/starter-code/assets/desktop/image-hero-right.png);
+        background-image: url(assets/desktop/image-hero-right.png);
         background-repeat: no-repeat;
         background-position: left;
         background-size: auto 100%;
@@ -419,6 +419,6 @@ footer .text-preset-2, footer .text-preset-4 {
         width: 100%;
         background-image: 
         linear-gradient(rgba(77, 150, 168, 0.85), rgba(77, 150, 168, 0.85)), 
-        url(/starter-code/assets/desktop/image-footer.jpg); 
+        url(assets/desktop/image-footer.jpg); 
     }
 }
